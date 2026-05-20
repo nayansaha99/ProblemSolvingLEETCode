@@ -1,4 +1,4 @@
-//26.Remove_Duplicates_from_Sorted_Array.js//
+//26.Remove_Duplicates_from_Sorted_Array.js//    //Leet Code (Two Pointer)
 let arr = [5, 6, 7, 7, 8, 8, 9]
 var removeDuplicates = function (arr) {
     if (arr.length === 0) return [];
